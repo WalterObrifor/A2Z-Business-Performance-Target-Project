@@ -20,6 +20,9 @@ A2Z Business is a Convenience Store that offers a broad selection of both non-al
 
 *This analysis project aims to provide insights for the revenue and target performance of all the stores in A2Z Business LTD over the past year. By analyzing various aspect of the business dataset (customer, sale, monthly target, and product record). The management seek to identify trends, make data driven recommendations, and ga9n a deeper understanding of the company's peformance.* 
 
+<img width="134" height="205" alt="A2Z store picture 3" src="https://github.com/user-attachments/assets/86af07db-2ead-4c3c-8edb-d80b775d7a9d" />
+
+
 ### Data source 
 The dataset used for this project are Customer Record, Monthly Store Target Record, Sales Record and Product Record from A2Z Business LTD, containing information each eight stores. 
 
