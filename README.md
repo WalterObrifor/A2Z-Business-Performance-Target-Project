@@ -16,9 +16,9 @@
 
 
 ### Project Overview
-A2Z Business is a Convenience Store that offers a broad selection of both non-alcoholic and alcoholic beverages for quick purchase. The management of A2Z Business company wants me to review the revenue performance across all stores. Mr. John Collins, the manager, wants to know which stores were able to meet their target for the year, which store made the highest variance (Revenue - Target) and the days profitable for sales. He desires to give some days off to the best store and provide a special salary increment for all store them met their target accordingly. 
+A2Z Business is a Convenience Store that offers a broad selection of both non-alcoholic and alcoholic beverages for quick purchase. The management of A2Z Business company wants me to review the revenue performance across all stores. Mr. John Collins, the manager, wants to know which stores were able to meet their target for the year, which store made the highest variance (Revenue - Target) and the days profitable for sales. He desires to give some days off to the best store and provide a special salary increament for all stores that met their target accordingly. 
 
-*This analysis project aims to provide insights for the revenue and target performance of all the stores in A2Z Business LTD over the past year. By analyzing various aspect of the business dataset (customer, sale, monthly target, and product record). The management seek to identify trends, make data driven recommendations, and ga9n a deeper understanding of the company's peformance.* 
+*This analysis project aims to provide insights for the revenue and target performance of all the stores in A2Z Business LTD over the past year. By analyzing various aspect of the business dataset (customer, sale, monthly target, and product record). The management seek to identify trends, make data driven recommendations, and get a deeper understanding of the company's peformance.* 
 
 <img width="134" height="205" alt="A2Z store picture 3" src="https://github.com/user-attachments/assets/86af07db-2ead-4c3c-8edb-d80b775d7a9d" />
 
@@ -45,15 +45,15 @@ The dataset used for this project are Customer Record, Monthly Store Target Reco
 ### Expository Data Analysis
 This involves answering busines questions from the company:
 - Which stores meet their target for the year?
-<img width="691" height="343" alt="Daily, Weekly, Monthly and Quarterly Dashboard" src="https://github.com/user-attachments/assets/b1123824-189d-40ba-b73f-62a02eee2829" />
+<img width="500" height="343" alt="Daily, Weekly, Monthly and Quarterly Dashboard" src="https://github.com/user-attachments/assets/b1123824-189d-40ba-b73f-62a02eee2829" />
  
 - Which store has the highest variance (Different between total revenue and business target)
-<img width="793" height="398" alt="Highest variance" src="https://github.com/user-attachments/assets/16cdfb33-a71e-4011-bb3b-e8551b8ad520" />
+<img width="500" height="398" alt="Highest variance" src="https://github.com/user-attachments/assets/16cdfb33-a71e-4011-bb3b-e8551b8ad520" />
 
   
 - What days, month, and quarter are each store performing their best sales?
 
-<img width="691" height="343" alt="Daily, Weekly, Monthly and Quarterly Dashboard" src="https://github.com/user-attachments/assets/95160be7-ddd4-4493-9e26-2aa11f3a870b" />
+<img width="500" height="343" alt="Daily, Weekly, Monthly and Quarterly Dashboard" src="https://github.com/user-attachments/assets/95160be7-ddd4-4493-9e26-2aa11f3a870b" />
 
 
 ### Data Analysis
@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/32a8af0d-ac6e-4145-87b2-63f3fc380170
 ---- conditinal statement
 =TEXTJOIN(" ",,IF(H3=1,"Top Profitable","Less profitable"),IF(H4=1,"Customer","Location"))
 ````
-<img width="893" height="328" alt="Analysis2" src="https://github.com/user-attachments/assets/91ec9260-a645-4a8c-902d-99c1f1c08f3d" />
+<img width="500" height="328" alt="Analysis2" src="https://github.com/user-attachments/assets/91ec9260-a645-4a8c-902d-99c1f1c08f3d" />
 
 
 
