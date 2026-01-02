@@ -58,7 +58,7 @@ This involves answering busines questions from the company:
 
 ### Data Analysis
 I conducted this prodect using the PACE FRAMEWORK. In order to understand the impact of this project, I carried out an Exploratory Data Analysis for each store’s dataset, comparing their total revenue with monthly target.
-Include somme interesting codes here.
+Here are some of the excel formulas i used:
 
 
 https://github.com/user-attachments/assets/32a8af0d-ac6e-4145-87b2-63f3fc380170
