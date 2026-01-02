@@ -1,5 +1,8 @@
 # A2Z-Business Performance/Target Project
 
+
+<img width="306" height="151" alt="A2Z store picture 1" src="https://github.com/user-attachments/assets/18cea599-5e78-4ab2-ba76-4f5578313278" />
+
 ## Table of Contents
 * Project Overview
 * Data Source
