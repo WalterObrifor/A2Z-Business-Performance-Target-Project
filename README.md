@@ -63,9 +63,23 @@ https://github.com/user-attachments/assets/32a8af0d-ac6e-4145-87b2-63f3fc380170
 ````
 =SUMIF()
 
+---this is used to create the variance sign
+=IF((Q4-R4)/R4>0,"▲","▼")&TEXT((Q4-R4)/R4,"+0.0%;-0.0%")
 
+--- If statement
+=IF(AB13>AD16,AB13,"")
+
+--- Average foormula
+=AVERAGE($AJ$20:$AJ$31)
+
+----Large formula
+=LARGE($G$4:$G$15,F18)
+
+---- conditinal statement
+=TEXTJOIN(" ",,IF(H3=1,"Top Profitable","Less profitable"),IF(H4=1,"Customer","Location"))
 ````
-<img width="932" height="322" alt="Analysis" src="https://github.com/user-attachments/assets/7433f682-da47-4544-a8fb-99bbc2af84af" />
+<img width="893" height="328" alt="Analysis2" src="https://github.com/user-attachments/assets/91ec9260-a645-4a8c-902d-99c1f1c08f3d" />
+
 
 
 ### Business Results/Findings
