@@ -16,3 +16,9 @@ Contributionn
 Licence
 
 ### Data source 
+The dataset used this project are Customer Record, Monthly Store Record, Sales Record and Product Record from A2Z Business LTD, containing information each eight stores. 
+
+### Tools
+- Microsoft Excel (Data cleaning - Data transformation - Data modelling - Data analysis - Creating dashbord & presentation)
+
+
