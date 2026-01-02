@@ -1,15 +1,15 @@
 # A2Z-Business Performance/Target Project
 
 ## Table of Contents
-* [Project Overview](project-overview)
-* [Data Source](data-source)
-* [Tools Used](tools-used)
-* [Data Cleaning/Preparation](data-cleaning/preparation)
-* [Expository Data Analysis](expository-data-analysis)
-* [Data Analysis](data-analysis)
-* [Business Results/Findings](business-results/findings)
-* [REcommendations](recommendations)
-* [Limitations](limitations)
+* Project Overview
+* Data Source
+* Tools Used
+* Data Cleaning/Preparation
+* Expository Data Analysis
+* Data Analysis
+* Business Results/Findings
+* REcommendations
+* Limitations
 
 
 ### Project Overview
